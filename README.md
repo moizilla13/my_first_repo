@@ -1,4 +1,4 @@
-El README es el archivo en el cual hacemos la descripción del proyecto, ya sea open source o privados es importante tener un buen README. Este archivo se escribe con formato markdown, esto es lo primero que veremos en esta clase.
+El README es el archivo en el cual hacemos la descripción del proyecto, ya sea open source o privados es importante tener un buen README. Este archivo se escribe con formato markdown.
 
 Markdown
 Es un formato de escritura que permite la generación de contenido fácil y rápido, permite generar una salida (por lo general) en formato HTML sin necesidad de aprender a profundidad HTML. Es ampliamente utilizado por su facilidad de generar texto enriquecido.
@@ -136,5 +136,4 @@ MIT
 
 Tener un buen README permite que los demás colaboradores del proyecto tengan todo el contexto necesario para poder arrancar, usar y crear nuevas funcionalidades.
 
-Reportar un problema
-Conclusiones
+https://platzi.com/clases/1650-prework/21969-como-crear-un-buen-readmemd-y-sintaxis-de-markdown/
